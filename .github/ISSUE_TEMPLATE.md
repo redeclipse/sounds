@@ -1,9 +1,12 @@
-## Have you verified that you can reproduce the problem? [Y/N]
+- ONLY report a feature request if it was already discussed at: https://redeclipse.net/world/issues
+- PLEASE search the issues before submitting your own. Be sure to rename your `config.cfg` and check if the problem still occurs.
 
-## Have you checked on the forums or issue tracker to see if your issue has already been reported and/or resolved upstream? [Y/N]
+* Version and build: [version] [build]
+* Related discussion: red-eclipse/world#ID
+* Observation: [what happened?]
+* Expected result: [what did you expect to happen?]
+* How to reproduce: [what steps can be taken to reliably reproduce the issue?]
 
-## Provide a good description along with a link to your original forum topic (if applicable).
-
-
-## Attach, or provide direct links to, any files which demonstrates your issue and any patches you might have here.
-
+```
+Insert the contents of your `log.txt` here.
+```
