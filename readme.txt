@@ -15,3 +15,8 @@ For a license breakdown of all content in Red Eclipse, see all-licenses.txt.
 
 The use of trademarks unique to the Red Eclipse project are in addition
 governed by the Red Eclipse Mark Policy (see trademark.txt).
+
+## EXPLICIT LICENSES ##
+
+The Red Eclipse Theme song, as well as tracks by "EG Music" are subject to the 
+Red Eclipse Mark Policy. They may be freely distributed only within Red Eclipse.
