@@ -20,3 +20,24 @@ governed by the Red Eclipse Mark Policy (see trademark.txt).
 
 The Red Eclipse Theme song, as well as tracks by "EG Music" are subject to the
 Red Eclipse Mark Policy. They may be freely distributed only within Red Eclipse.
+
+## CREDITS ##
+
+Many people have contributed to the sound design of Red Eclipse over the years.
+starting with xJoJox and Quin. Some of these sounds still remain in the game to
+this day.
+
+Over time, people have tweaked or replaced certain sounds over the years to more
+suit the evolving nature of the project, the greatest of whom is Q009 who has
+totally revamped the sound feel of the game since version 2.0.
+
+With the creation of the Corroder and Janitors, garsipal has helped ensure that
+these new creations get the sounds that bring them to life immediately for everyone
+to enjoy.
+
+With music, you will find tracks by both xJoJox and EG music. I have always tried
+to make sure the music of the game feels both sci fi yet old school nostaglic.
+These people have been excellent team players in creating a unique soundtrack
+that is just for Red Eclipse.
+
+Of course, without these people and many more, Red Eclipse would be a silent wasteland.
